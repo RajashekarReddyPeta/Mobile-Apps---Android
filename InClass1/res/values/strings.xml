@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InClass1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Gray">Gray</string>
+    <string name="Cyan">Cyan</string>
+    <string name="DkGray">DkGray</string>
+    <string name="Magenta">Magenta</string>
+    <string name="Yellow">Yellow</string>
+    <string name="Clicks"># Clicks : 0</string>
+    
+
+</resources>
